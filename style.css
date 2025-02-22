@@ -1,0 +1,76 @@
+:root {
+    font-family: "Jura", "Courier-Prime", "Electrolize", "Silkscreen", sans-serif ;
+    font-size: 17px;
+
+}
+
+body {
+   background-color: #cecece;
+  
+  }
+
+.deck-table {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+  #table-image {
+    height: 6rem;
+  }
+
+  #tier{
+    display: flex;
+    width: 2rem;
+   
+  }
+
+ #logo {
+    width: 3rem;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h2 {
+    font-family: "Silkscreen";
+}
+
+button {
+    font-family: "Jura";
+}
+
+.extra-info-h2 {
+    font-family: "Electrolize";
+}
+
+.extra-info-p {
+    font-family: "Courier-Prime";
+}
